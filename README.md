@@ -12,7 +12,7 @@ New Orleans, LA / Columbus, OH · [erynmontgomery.com](https://erynmontgomery.co
 **[crierbaby](https://github.com/unlikely-archivist/crierbaby)**: a self-hosted, approval-first Bluesky photo scheduler with AI-assisted captions that sound like you.
 `JavaScript` `Cloudflare Workers` `Vision AI`
 
-**[Flatpack](https://github.com/unlikely-archivist/Flatpack)**: an Obsidian Templater template that merges notes into one master document, pulling in embeds without the "echo" from heavily cross-embedded vaults and keeping folder structure intact.
+**[Flatpack](https://github.com/unlikely-archivist/flatpack)**: an Obsidian Templater template that merges notes into one master document, pulling in embeds without the "echo" from heavily cross-embedded vaults and keeping folder structure intact.
 `Obsidian` `Templater`
 
 ## Before code
